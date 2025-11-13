@@ -1,3 +1,3 @@
-Username: test.admin432                      Your total balance: 128.37
+Username: test.admin432                      Your total balance: 128.37 Pending.......
 
 No link
